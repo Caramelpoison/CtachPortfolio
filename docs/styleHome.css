@@ -142,9 +142,14 @@
 
 }
   .cardi {
+    width: 325px;
     height: 200px;
     border: 5px solid black;
     object-fit: cover;
+  }
+
+  .cardb{
+    text-align: center;
   }
 
   .cardb a{
